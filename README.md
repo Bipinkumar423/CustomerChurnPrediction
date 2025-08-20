@@ -6,6 +6,8 @@ In today’s competitive business environment, customer loyalty plays a vital ro
 
 This project aims to develop a robust machine learning-based predictive model that identifies customers most at risk of churning. By leveraging historical customer data—such as demographic details, subscription history, billing information, and usage patterns—the model enables businesses to proactively engage with high-risk customers. The solution supports data-driven retention strategies, helping organizations strengthen customer satisfaction, reduce churn rates, and enhance long-term profitability.
 
+
+
 Data Description
 The dataset consists of customer information with the following attributes:
 
@@ -28,6 +30,8 @@ Total_Usage_GB: Internet/data usage in gigabytes.
 Churn: Target variable (1 = churned, 0 = not churned).
 
 This data provides both numerical and categorical features, making it suitable for applying a wide range of machine learning algorithms.
+
+
 
 
 
@@ -95,6 +99,7 @@ ROC Curve and AUC for classification performance.
 
 
 Outcome
+
 The final outcome of this project is a predictive churn model capable of classifying customers into churn and non-churn categories with high accuracy. By analyzing features such as age, subscription length, billing patterns, and usage, the model highlights customers who are most likely to leave.
 
 This enables organizations to:
