@@ -1,4 +1,6 @@
 Customer Churn Prediction – Detailed Project Report
+
+
 Problem Statement
 In today’s competitive business environment, customer loyalty plays a vital role in ensuring sustainable growth. However, customer churn—when users discontinue their subscription or switch to competitors—remains a major challenge. Churn not only reduces revenue but also increases the cost of acquiring new customers.
 
