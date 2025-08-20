@@ -27,7 +27,11 @@ Churn: Target variable (1 = churned, 0 = not churned).
 
 This data provides both numerical and categorical features, making it suitable for applying a wide range of machine learning algorithms.
 
+
+
 Technologies and Tools Used
+
+
 Programming & Environment
 
 Python: Core language for data analysis and modeling.
@@ -45,6 +49,8 @@ Machine Learning Frameworks
 Scikit-learn: Provides classification algorithms, preprocessing methods, and model evaluation techniques.
 
 TensorFlow & Keras: For building, training, and fine-tuning deep learning models.
+
+
 
 Algorithms Implemented
 
@@ -64,6 +70,8 @@ Variance Inflation Factor (VIF): Identifying multicollinearity.
 
 Principal Component Analysis (PCA): Dimensionality reduction for improved efficiency.
 
+
+
 Model Optimization
 
 Cross-Validation: Ensures generalization and prevents overfitting.
@@ -72,6 +80,8 @@ GridSearchCV: Exhaustive search for best hyperparameters.
 
 Early Stopping & ModelCheckpoint: Regularization techniques for deep learning.
 
+
+
 Evaluation Metrics
 
 Accuracy, Precision, Recall, F1-score.
@@ -79,6 +89,8 @@ Accuracy, Precision, Recall, F1-score.
 Confusion Matrix for error analysis.
 
 ROC Curve and AUC for classification performance.
+
+
 
 Outcome
 The final outcome of this project is a predictive churn model capable of classifying customers into churn and non-churn categories with high accuracy. By analyzing features such as age, subscription length, billing patterns, and usage, the model highlights customers who are most likely to leave.
